@@ -1,3 +1,4 @@
 # hello-world
 Just another repository
-#Nikola Cibrev
+Hi world!
+Nikola here, I like Python
